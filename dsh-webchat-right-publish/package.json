@@ -1,5 +1,5 @@
 {
-  "name": "@local/dsh-webchat-right",
+  "name": "dsh-webchat-right",
   "version": "0.7.8-local.13",
   "private": true,
   "description": "把 chat.deepseek.com 放进右侧栏并保留登录：侧栏底部入口 + 右侧栏标签页，复用上游 dsh-webchat 的宿主半边与登录快照。",
@@ -38,5 +38,9 @@
       ]
     }
   },
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "author": "ibz13145210",
+  "contributors": [
+    "jaychang1989"
+  ]
 }
